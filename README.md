@@ -1,6 +1,8 @@
 **Project Name:** SpaceX Falcon 9 Landing Machine Learning Prediction
 
-**Project Overview:** SpaceX aims to make space travel more affordable by reusing rocket boosters. The primary objective of this project is to predict whether the Falcon 9 first stage will successfully land, using data collected from SpaceX launches. Predicting successful landings is crucial for SpaceX as it reduces costs and enables the reuse of rocket boosters.
+**Project Overview:** 
+
+SpaceX aims to make space travel more affordable by reusing rocket boosters. The primary objective of this project is to predict whether the Falcon 9 first stage will successfully land, using data collected from SpaceX launches. Predicting successful landings is crucial for SpaceX as it reduces costs and enables the reuse of rocket boosters.
 
 **Key Objectives:**
 
